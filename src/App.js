@@ -17,7 +17,7 @@ class App extends React.Component {
   };
 
   componentDidMount() {
-    this.onTermSubmit("upcred");
+    this.onTermSubmit("google");
   }
 
   onTermSubmit = async (term) => {
